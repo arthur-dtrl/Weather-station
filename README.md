@@ -1,5 +1,5 @@
 # ESP-32 Weather station
-This weather station is built using an ESP32-WROOM32 MCU and a LAFVIN ST7796S 4'0 LCD screen. The GUI displays the following : location, time, day/night, real temperature, feels like temperature,  weather condition, wind direction and speed, humidity, atmospheric pressure and UV index.
+This weather station is built using an ESP32-WROOM32 MCU and a LAFVIN ST7796S 4'0 LCD screen. The GUI displays the following : location, time, day/night, real temperature, feels like temperature,  weather condition, wind direction and speed, humidity, atmospheric pressure and UV index. Touching the screen will turn off the backlights which allows the device to operate while lowering the power usage.
 
 ## Setting up PlatformIO
 Libraries needed:
