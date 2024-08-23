@@ -1,14 +1,14 @@
 # ESP-32 Weather station
 This weather station is built using an ESP32-WROOM32 MCU and a LAFVIN ST7796S 4'0 LCD screen. The GUI displays the following : location, time, day/night, real temperature, feels like temperature,  weather condition, wind direction and speed, humidity, atmospheric pressure and UV index.
 
-##Setting up PlatformIO
+## Setting up PlatformIO
 Libraries needed:
 
 -bblanchon/ArduinoJson
 
 -bodmer/TFT_eSPI
 
-##Seting up the software
+## Seting up the software
 -Create an account on WeatherAPI.com
 
 -Create an API Key
@@ -17,7 +17,7 @@ Libraries needed:
 
 -fill the config.h file with your WiFi SSID and password, and your location.
 
-##Setting up the screen
+## Setting up the screen
 In order to use the TFT_eSPI library, you have to select an user setup.
 Your user setup should look like this: 
 ```
@@ -51,5 +51,5 @@ Your user setup should look like this:
 #define SPI_TOUCH_FREQUENCY  2500000
 
 ```
-##Example
-![alt text](https://github.com/arthur-dtrl/Weather-station/main/images/Screen.png
+## Example
+![alt text]([https://github.com/arthur-dtrl/Weather-station/main/images/Screen.png](https://github.com/arthur-dtrl/Weather-station/blob/main/images/Screen.png)
