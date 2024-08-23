@@ -52,4 +52,4 @@ Your user setup should look like this:
 
 ```
 ## Example
-![alt text]([https://github.com/arthur-dtrl/Weather-station/main/images/Screen.png](https://github.com/arthur-dtrl/Weather-station/blob/main/images/Screen.png)
+![alt text](https://github.com/arthur-dtrl/Weather-station/blob/main/images/Screen.png)
